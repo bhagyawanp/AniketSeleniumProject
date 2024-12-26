@@ -14,8 +14,8 @@ public class AddToCartTestcases extends baseClass {
 	public void verifyProdctInCart() {
 		
 		
-		driver.findElement(By.xpath(""))
-		
+		driver.findElement(By.xpath(""));
+		// random changes
 		
 	}
 	
